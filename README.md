@@ -1,6 +1,8 @@
 # SC1015 Data Science and Artificial Intelligence
 Welcome to our SC1015 Data Science and Artificial Intelligence Mini-project between Jin Yong (U2322914J) and Ryan (U2321286F). We are working on the Stroke Prediction Dataset. For more details, you may view our jupyter notebook where we have visuals, along with numbers and notes to aid in understanding our data analysis more.
 
+![iStock-1168179082](https://github.com/Jinyong01/1015_Mini-Project/assets/160875986/2ba630bf-edd5-4482-9dec-a00fda868492)
+
 ## Problem Statement:
 According to the World Health Organization's 2022 report, stroke ranks as the second leading cause of death globally. Shockingly, statistics show that one in four individuals aged 25 and above will experience a stroke in their lifetime. Moreover, there has been a concerning 70% increase in stroke risk from 1990 to 2019, leading to a 43% surge in stroke-related deaths.
 
